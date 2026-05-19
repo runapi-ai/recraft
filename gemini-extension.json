@@ -1,0 +1,10 @@
+{
+  "name": "recraft",
+  "version": "0.2.1",
+  "description": "RunAPI Recraft skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+  "skills": [
+    {
+      "path": "skills/recraft/SKILL.md"
+    }
+  ]
+}
