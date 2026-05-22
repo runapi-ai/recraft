@@ -1,5 +1,7 @@
 # Recraft API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/recraft)](https://skills.sh/runapi-ai/recraft)
+
 Upscale images and remove backgrounds with Recraft crisp upscale and background removal. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Recraft through RunAPI.
 
 The canonical agent file is `skills/recraft/SKILL.md`.
