@@ -16,9 +16,6 @@
 
 [![skills.sh](https://www.skills.sh/b/runapi-ai/recraft)](https://www.skills.sh/runapi-ai/recraft/recraft)
 [![ClawHub](https://img.shields.io/badge/ClawHub-runapi--recraft-111827)](https://clawhub.ai/runapi-ai/runapi-recraft)
-[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/recraft)
-[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
-[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
 [![License](https://img.shields.io/github/license/runapi-ai/recraft)](https://github.com/runapi-ai/recraft/blob/main/LICENSE)
 
 </div>
