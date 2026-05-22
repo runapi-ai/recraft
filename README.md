@@ -9,12 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://runapi.ai/models/recraft.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/recraft"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/recraft-sdk"><strong>SDK</strong></a>
+  <a href="https://runapi.ai/models/recraft"><strong>Model Reference</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/recraft-sdk"><strong>SDK</strong></a>
 </p>
 
 <div align="center">
 
-[![skills.sh](https://skills.sh/b/runapi-ai/recraft)](https://skills.sh/runapi-ai/recraft)
+[![skills.sh](https://www.skills.sh/b/runapi-ai/recraft)](https://www.skills.sh/runapi-ai/recraft/recraft)
+[![ClawHub](https://img.shields.io/badge/ClawHub-runapi--recraft-111827)](https://clawhub.ai/runapi-ai/runapi-recraft)
+[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/recraft)
+[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
+[![License](https://img.shields.io/github/license/runapi-ai/recraft)](https://github.com/runapi-ai/recraft/blob/main/LICENSE)
 
 </div>
 <br/>
